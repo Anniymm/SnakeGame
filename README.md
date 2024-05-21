@@ -22,5 +22,5 @@ implementation of the Snake game using Python (OOP) and the Turtle module. Free 
    ```bash
    git clone https://github.com/your-username/snake-game.git
 
-2. Start program.
+2. Start with ```python SnakeGame.py```.
 
