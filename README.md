@@ -20,7 +20,7 @@ implementation of the Snake game using Python (OOP) and the Turtle module. Free 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/Anniymm/snake-game.git
 
 2. Start with ```python SnakeGame.py```.
 
